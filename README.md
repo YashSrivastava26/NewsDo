@@ -1,7 +1,7 @@
 
-# NewsDeck
+# NewsDO
 
-NewsDeck is a web application that provides users with up-to-date information and news stories from a variety of sources, including newspapers, websites, blogs, and social media. NewsDeck allows users to select the topics or categories they are interested in, such as politics, sports, technology, entertainment etc. The project involves using APIs to collect and parse news data from various sources, such as newspapers, websites, blogs, and social media. Users can also search queries related the news they are searching for.
+NewsDO is a web application that provides users with up-to-date information and news stories from a variety of sources, including newspapers, websites, blogs, and social media. NewsDO allows users to select the topics or categories they are interested in, such as politics, sports, technology, entertainment etc. The project involves using APIs to collect and parse news data from various sources, such as newspapers, websites, blogs, and social media. Users can also search queries related the news they are searching for.
 
 
 ## Run Locally
